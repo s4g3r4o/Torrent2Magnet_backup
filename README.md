@@ -1,2 +1,3 @@
-# Torrent2Magnet
-A simple script to translate from torrent to magnet and backward
+# Magnet-to-Torrent Converter
+
+A program to convert magnet links to torrent files and vice versa.
